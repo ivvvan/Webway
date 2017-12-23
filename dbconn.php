@@ -18,6 +18,7 @@ define("MYSQL_TABLE_TYPE", "INNODB");
 #define("BX_MEMCACHE_HOST", "192.168.0.241");
 #define("BX_MEMCACHE_PORT", "11211");
 
+//asdfasdfasdf
 
 define("DELAY_DB_CONNECT", true);
 define("CACHED_b_file", 3600);
