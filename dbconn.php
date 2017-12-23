@@ -12,6 +12,7 @@ define("MYSQL_TABLE_TYPE", "INNODB");
 @set_time_limit(60);
 
 // comment 123123
+// comment 123123123123
 #define("BX_CACHE_TYPE", "memcache");
 #define("BX_CACHE_SID", $_SERVER["DOCUMENT_ROOT"]."#01");
 #define("BX_MEMCACHE_HOST", "192.168.0.241");
